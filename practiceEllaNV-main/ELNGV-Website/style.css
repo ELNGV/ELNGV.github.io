@@ -1,0 +1,51 @@
+h1 {
+	color: "2D3142";
+	text-align: center;
+	font-family: "", cursive;
+	font-size: 50px;
+}
+
+h2 {
+	color: "9CADCE";
+	text-align: center;
+	font-family: "Balsamiq Sans", cursive;
+	font-size: 25px;
+}
+
+body {
+	color: "EAE8FF";
+	text-align: center;
+	font-family: 'Nunito', sans-serif;
+}
+
+li {
+	color: "D1CFE2";
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+
+}
+
+.index {
+	background-color: "blue";
+
+}
+
+
+EAE8FF lavender web
+D8D5DB light gray
+ADACB5 silver metallic 
+2D3142 space cadet (navy)
+B0D7FF baby blue eyes
+D1CFE2 light periwinkle
+9CADCE wild blue yonder
+
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap" rel="stylesheet">
+
+
